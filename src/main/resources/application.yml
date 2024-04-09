@@ -1,0 +1,5 @@
+spring.application.name: fileupload
+
+tus:
+  save.path: /Users/hyunu/tus
+
